@@ -33,6 +33,10 @@ This project simulates an Electric Vehicle (EV) drivetrain with a focus on regen
 7. **Drive Cycle Source**
    - Uses FTP75 test cycle
    - Simulates realistic driving conditions
+Output:
+![Annotation 2024-10-08 233657](https://github.com/user-attachments/assets/f395aee0-6dde-4e6a-ac78-2b9d3305cec5)
+
+
 
 ## Regenerative Braking Functionality
 - Motor acts as a generator during braking
